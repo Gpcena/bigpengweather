@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="cool_weather"/>
+    <version value="1"/>
+    <list>
+        <mapping calass="com.BigPengWeather.android.db.Province"/>
+        <mapping calass="com.BigPengWeather.android.db.City"/>
+        <mapping calass="com.BigPengWeather.android.db.County"/>
+
+    </list>
+</litepal>
